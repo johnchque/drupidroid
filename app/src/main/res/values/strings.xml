@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Drupal Mountain Camp Android Integration</string>
+    <string name="title_activity_login">Log in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_field_required">This field is required</string>
+</resources>

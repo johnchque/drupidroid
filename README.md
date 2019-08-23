@@ -43,7 +43,7 @@ Android app skeleton with integration with Drupal 8 REST system. It works with a
 
 5. Once you have it installed, open the folder containing the project.
 
-## Running the test.py
+## Running the project
 
 1. To make it work with your own API REST points, edit the following lines in the file ```app/src/main/java/ch/drupalmountaincamp/android/retrofit/UtilsApi```
 ```
